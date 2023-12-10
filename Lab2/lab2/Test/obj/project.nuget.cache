@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtRXY6qAJsbIB4C8WHPipSC27EzlwBJwVTivhq++x8qBfaWoQZNrUf/w29zkg8h7JSABkC89FBmvMn/XuVltrw==",
+  "success": false,
+  "projectFilePath": "E:\\autotest\\Lab2\\lab2\\Test\\Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project lab2 is not compatible with net48 (.NETFramework,Version=v4.8). Project lab2 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "lab2",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}
